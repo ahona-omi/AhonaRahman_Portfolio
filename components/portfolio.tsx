@@ -1237,14 +1237,14 @@ export default function Portfolio() {
                 <p className="eyebrow">Documents / CV</p>
                 <div>
                   <External
-                    href="https://drive.google.com/file/d/1N-I5u0RdGFL6oEVPZ5KHyI1u05v_vrG_/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1mtOd7-KXDzmur40r_uNji8fHPOvunq2S/view?usp=drive_link"
                     className="cv-button"
                   >
                     <Download />
                     Professional CV <ArrowUpRight />
                   </External>
                   <External
-                    href="https://drive.google.com/file/d/1i8ltgWa1jttsmPoupzwojhGyrxBKLHHW/view"
+                    href="https://drive.google.com/file/d/1iZ0wLxetIEE-CSwlpozXWoAO4vgpRzOD/view?usp=sharing"
                     className="cv-button"
                   >
                     <Download />
